@@ -204,7 +204,7 @@ A list of departments meeting the specified criteria, along with the correspondi
 | Adult       | 145            | 38%        |
 
 ---
-### ** Task 1 : My Approach**
+###  Task 1 : My Approach
 
 **Data Loading:**
 
@@ -269,7 +269,7 @@ ChurnRiskUsers
 
 
 
-### ** Task 2 : My Approach**
+###  Task 2 : My Approach
 
 **Approach**
 
@@ -290,7 +290,7 @@ Save the results to a CSV file (churn_risk_users.csv).
 **Findings:**
 The analysis identified 11 users who are at risk of churn. These users have canceled their subscriptions and have low watch time (<100 minutes).
 
-### *3. Trend Analysis Over the Years*  
+## *3. Trend Analysis Over the Years*  
 
 **Objective:**  
 
@@ -316,7 +316,7 @@ A summary of *movie-watching trends* over the years, indicating peak years for s
 | 2023         | 2800           |
 
 
-### ** Task 2 : My Approach**
+##  Task 2 : My Approach
 
 **Approach*
 
