@@ -316,9 +316,9 @@ A summary of *movie-watching trends* over the years, indicating peak years for s
 | 2023         | 2800           |
 
 
-##  Task 2 : My Approach
+##  Task 3 : My Approach
 
-**Approach*
+*Approach*
 
 **1. Group by Watched Year:**
 Group the dataset by WatchedYear.
